@@ -1,5 +1,3 @@
-# Python_lab2
-
 # Military Equipment Losses Analysis (Ukraine-Russia War 2022-2024)
 
 This project analyzes military equipment losses, specifically focusing on aircraft losses during the Ukraine-Russia war from 2022 to 2024. The analysis is performed using **Python**, leveraging powerful libraries like `NumPy`, `Pandas`, and `Matplotlib` to process, analyze, and visualize the data.
